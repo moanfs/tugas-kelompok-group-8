@@ -47,25 +47,25 @@ php artisan serve
 
 1. Halaman Dashboard
    Menampilkan informasi barang, total margin, omset, modal, barang yang kurang laris berdasarkan penjualan kurang dari 10, barang laris dari yang terjaul terbanyak.
-   ![Dashboard](/images/dashboard.png)
+   ![Dashboard](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/dashboard.png)
 2. Tabel Pembelian
    Menampilkan data pembelian barang
-   ![Dashboard](/images/tabelpembelian.png)
+   ![Tabel-Pembelian](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/tabelpembelian.png)
 3. Form Tambah Barang
    Form untuk menambahkan barang ke dalam tabel pembelian, tabel barang, dan tabel penjualan
-   ![Dashboard](/images/form-pembelian.png)
+   ![Form-Pembelian](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/form-pembelian.png)
 4. Form Edit Barang
    Form untuk mengedit data barang
-   ![Dashboard](/images/edit-pembelian.png)
+   ![Edit-Pembelian](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/edit-pembelian.png)
 5. Hapus Barang
    Fitur hapus data barang dari tabel barang yang berelasi ke tabel penjualan, dan tabel pembelian (onDelete cascade)
-   ![Dashboard](/images/hapus-pembelian.png)
+   ![Hapus-Pembelian](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/hapus-pembelian.png)
 6. Tabel Penjualan
    Menampilkan data penjualan
-   ![Dashboard](/images/penjualan.png)
+   ![Tabel-Penjualan](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/penjualan.png)
 7. Simulasi Pembelian
    Fitur simulasi pembelian yang akan menambah JumlahPenjualan pada tabel Penjualan
-   ![Dashboard](/images/simulasi.png)
+   ![Simulasi](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/simulasi.png)
 8. Database
    Rancangan database yang digunakan
-   ![Dashboard](/images/database.png)
+   ![Database](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/database.png)
