@@ -52,7 +52,7 @@ php artisan serve
    Menampilkan data pembelian barang
    ![Tabel-Pembelian](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/tabelpembelian.png)
 3. Form Tambah Barang
-   Form untuk menambahkan barang ke dalam tabel pembelian, tabel barang, dan tabel penjualan
+   Form untuk menambahkan barang ke dalam tabel pembelian, tabel barang, dan tabel penjualan, pada form tambah barang telah dilengkapi dengan validasi harga penjualan harus lebih besar dari harga pembelian, dan semua input harus di isi
    ![Form-Pembelian](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/form-pembelian.png)
 4. Form Edit Barang
    Form untuk mengedit data barang
@@ -64,7 +64,7 @@ php artisan serve
    Menampilkan data penjualan
    ![Tabel-Penjualan](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/penjualan.png)
 7. Simulasi Pembelian
-   Fitur simulasi pembelian yang akan menambah JumlahPenjualan pada tabel Penjualan
+   Fitur simulasi pembelian yang akan menambah JumlahPenjualan pada tabel Penjualan, dan saat melakukan pembelian melebihi stok(jumlahPembelian-JumlahPenjualan) maka pembelian akan gagal, dan stok barang yang habis tidak ditampilkan lagi
    ![Simulasi](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/simulasi.png)
 8. Database
    Rancangan database yang digunakan
